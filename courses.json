@@ -1,0 +1,145 @@
+[
+  {
+    "id": "012",
+    "category": "01",
+    "name": "Basics of HTML"
+  },
+  {
+    "id": "013",
+    "category": "01",
+    "name": "Intermediate HTML"
+  },
+  {
+    "id": "014",
+    "category": "01",
+    "name": "Advanced level HTML"
+  },
+
+  {
+    "id": "015",
+    "category": "01",
+    "name": "Basic CSS"
+  },
+  {
+    "id": "016",
+    "category": "01",
+    "name": "Intermediate CSS"
+  },
+  {
+    "id": "017",
+    "category": "01",
+    "name": "Advanced level CSS"
+  },
+
+  {
+    "id": "018",
+    "category": "01",
+    "name": "Basic Javascript"
+  },
+  {
+    "id": "019",
+    "category": "01",
+    "name": "Intermediate Javascript"
+  },
+  {
+    "id": "020",
+    "category": "01",
+    "name": "Advanced level Javascript"
+  },
+
+  {
+    "id": "021",
+    "category": "01",
+    "name": "Basic React"
+  },
+  {
+    "id": "022",
+    "category": "01",
+    "name": "Intermediate React"
+  },
+  {
+    "id": "023",
+    "category": "01",
+    "name": "Advanced level React"
+  },
+
+  {
+    "id": "024",
+    "category": "01",
+    "name": "Basic Redux"
+  },
+  {
+    "id": "025",
+    "category": "01",
+    "name": "Intermediate Redux"
+  },
+  {
+    "id": "026",
+    "category": "01",
+    "name": "Advanced level Redux"
+  },
+
+  {
+    "id": "027",
+    "category": "01",
+    "name": "Basic Node Js"
+  },
+  {
+    "id": "028",
+    "category": "01",
+    "name": "Intermediate Node Js"
+  },
+  {
+    "id": "029",
+    "category": "01",
+    "name": "Advanced level Node Js"
+  },
+
+  {
+    "id": "030",
+    "category": "01",
+    "name": "Basic React Native"
+  },
+  {
+    "id": "031",
+    "category": "01",
+    "name": "Intermediate React Native"
+  },
+  {
+    "id": "032",
+    "category": "01",
+    "name": "Advanced level React Native"
+  },
+
+  {
+    "id": "033",
+    "category": "01",
+    "name": "Basic Django"
+  },
+  {
+    "id": "034",
+    "category": "01",
+    "name": "Intermediate Django"
+  },
+  {
+    "id": "035",
+    "category": "01",
+    "name": "Advanced level Django"
+  },
+
+  {
+    "id": "036",
+    "category": "01",
+    "name": "Basic AWS"
+  },
+  {
+    "id": "037",
+    "category": "01",
+    "name": "Intermediate AWS"
+  },
+  {
+    "id": "038",
+    "category": "01",
+    "name": "Advanced level AWS"
+  }
+]
