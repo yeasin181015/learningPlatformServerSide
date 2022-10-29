@@ -2,71 +2,84 @@
   {
     "id": "012",
     "category": "01",
-    "name": "Basics of HTML"
+    "name": "Basics of HTML",
+    "photo": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220401160946/HTML-Basic-Format.png"
   },
   {
     "id": "013",
     "category": "01",
-    "name": "Intermediate HTML"
+    "name": "Intermediate HTML",
+    "photo": "https://i.ytimg.com/vi/2jv1CF3iJkw/maxresdefault.jpg"
   },
   {
     "id": "014",
     "category": "01",
-    "name": "Advanced level HTML"
+    "name": "Advanced level HTML",
+    "photo": ""
   },
 
   {
     "id": "015",
     "category": "02",
-    "name": "Basic CSS"
+    "name": "Basic CSS",
+    "photo": ""
   },
   {
     "id": "016",
     "category": "02",
-    "name": "Intermediate CSS"
+    "name": "Intermediate CSS",
+    "photo": ""
   },
   {
     "id": "017",
     "category": "02",
-    "name": "Advanced level CSS"
+    "name": "Advanced level CSS",
+    "photo": ""
   },
 
   {
     "id": "018",
     "category": "04",
-    "name": "Basic Javascript"
+    "name": "Basic Javascript",
+    "photo": ""
   },
   {
     "id": "019",
     "category": "04",
-    "name": "Intermediate Javascript"
+    "name": "Intermediate Javascript",
+    "photo": ""
   },
   {
     "id": "020",
     "category": "04",
-    "name": "Advanced level Javascript"
+    "name": "Advanced level Javascript",
+    "photo": ""
   },
 
   {
     "id": "021",
     "category": "03",
-    "name": "Basic React"
+    "name": "Basic React",
+    "photo": ""
   },
   {
     "id": "022",
     "category": "03",
-    "name": "Intermediate React"
+    "name": "Intermediate React",
+    "photo": ""
   },
   {
     "id": "023",
     "category": "03",
-    "name": "Advanced level React"
+    "name": "Advanced level React",
+    "photo": ""
   },
 
   {
     "id": "024",
     "category": "05",
-    "name": "Basic Redux"
+    "name": "Basic Redux",
+    "photo": ""
   },
   {
     "id": "025",
@@ -76,70 +89,83 @@
   {
     "id": "026",
     "category": "05",
-    "name": "Advanced level Redux"
+    "name": "Advanced level Redux",
+    "photo": ""
   },
 
   {
     "id": "027",
     "category": "06",
-    "name": "Basic Node Js"
+    "name": "Basic Node Js",
+    "photo": ""
   },
   {
     "id": "028",
     "category": "06",
-    "name": "Intermediate Node Js"
+    "name": "Intermediate Node Js",
+    "photo": ""
   },
   {
     "id": "029",
     "category": "06",
-    "name": "Advanced level Node Js"
+    "name": "Advanced level Node Js",
+    "photo": ""
   },
 
   {
     "id": "030",
     "category": "07",
-    "name": "Basic React Native"
+    "name": "Basic React Native",
+    "photo": ""
   },
   {
     "id": "031",
     "category": "07",
-    "name": "Intermediate React Native"
+    "name": "Intermediate React Native",
+    "photo": ""
   },
   {
     "id": "032",
     "category": "07",
-    "name": "Advanced level React Native"
+    "name": "Advanced level React Native",
+    "photo": ""
   },
 
   {
     "id": "033",
     "category": "08",
-    "name": "Basic Django"
+    "name": "Basic Django",
+    "photo": ""
   },
   {
     "id": "034",
     "category": "08",
-    "name": "Intermediate Django"
+    "name": "Intermediate Django",
+    "photo": ""
   },
   {
     "id": "035",
     "category": "08",
-    "name": "Advanced level Django"
+    "name": "Advanced level Django",
+    "photo": ""
   },
 
   {
     "id": "036",
     "category": "09",
-    "name": "Basic AWS"
+    "name": "Basic AWS",
+    "photo": ""
   },
   {
     "id": "037",
     "category": "09",
-    "name": "Intermediate AWS"
+    "name": "Intermediate AWS",
+    "photo": ""
   },
   {
     "id": "038",
     "category": "09",
-    "name": "Advanced level AWS"
+    "name": "Advanced level AWS",
+    "photo": ""
   }
 ]
