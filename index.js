@@ -11,6 +11,10 @@ app.use(cors());
 const categories = require("./category.json");
 const courses = require("./courses.json");
 
+app.get("/", (req, res) => {
+  res.send("New API running");
+});
+
 app.get("/category", (req, res) => {
   res.send(categories);
 });
