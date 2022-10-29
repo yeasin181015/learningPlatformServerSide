@@ -3,111 +3,129 @@
     "id": "012",
     "category": "01",
     "name": "Basics of HTML",
-    "photo": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220401160946/HTML-Basic-Format.png"
+    "photo": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220401160946/HTML-Basic-Format.png",
+    "details": "There are various tags that we must consider and include while starting to code in HTML. These tags help in the organization and basic formatting of elements in our script or web pages."
   },
   {
     "id": "013",
     "category": "01",
     "name": "Intermediate HTML",
-    "photo": "https://i.ytimg.com/vi/2jv1CF3iJkw/maxresdefault.jpg"
+    "photo": "https://i.ytimg.com/vi/2jv1CF3iJkw/maxresdefault.jpg",
+    "details": "Whereas the purpose of the HTML Beginner Tutorial was to teach the bare essentials, this guide adds a few nuts and bolts, which shouldn’t be particularly difficult as such, but will add a bit more to our understanding of HTML and enable us to do a few more things."
   },
   {
     "id": "014",
     "category": "01",
     "name": "Advanced level HTML",
-    "photo": "https://i.ytimg.com/vi/GE2qnXC8UMg/maxresdefault.jpg"
+    "photo": "https://i.ytimg.com/vi/GE2qnXC8UMg/maxresdefault.jpg",
+    "details": "Exploring the depths of HTML5, some advanced, rather specific applications of the markup language for ultimate semantics and accessibility."
   },
 
   {
     "id": "015",
     "category": "02",
     "name": "Basic CSS",
-    "photo": "https://miro.medium.com/max/880/1*QNMzhjFSt-EdNabbVe7qEg.png"
+    "photo": "https://miro.medium.com/max/880/1*QNMzhjFSt-EdNabbVe7qEg.png",
+    "details": "CSS (Cascading Style Sheets) is the code that styles web content. CSS basics walks through what you need to get started. We'll answer questions like: How do I make text red? How do I make content display at a certain location in the (webpage) layout? How do I decorate my webpage with background images and colors?"
   },
   {
     "id": "016",
     "category": "02",
     "name": "Intermediate CSS",
-    "photo": "https://server2client.com/images/cssintermediatesummary.webp"
+    "photo": "https://server2client.com/images/cssintermediatesummary.webp",
+    "details": "You’ve figured out the basics of CSS, and your web pages are full of pretty colors and evocative fonts. But you want to do more! With Intermediate CSS, you’ll learn how to recreate the dynamism and the visual effects that you see on professional sites around the web."
   },
   {
     "id": "017",
     "category": "02",
     "name": "Advanced level CSS",
-    "photo": "https://pagely.com/wp-content/uploads/2017/07/hero-css.png"
+    "photo": "https://pagely.com/wp-content/uploads/2017/07/hero-css.png",
+    "details": "You'll learn CSS fundamentals like the box model, cascade and specificity, flexbox, grid and z-index. And, along with these fundamentals, you'll learn about functions, color types, gradients, logical properties and inheritance to make you a well-rounded front-end developer, ready to take on any user interface."
   },
 
   {
     "id": "018",
     "category": "04",
     "name": "Basic Javascript",
-    "photo": "https://i.ytimg.com/vi/xwKbtUP87Dk/maxresdefault.jpg"
+    "photo": "https://i.ytimg.com/vi/xwKbtUP87Dk/maxresdefault.jpg",
+    "details": "JavaScript Tutorial provides you with many practical tutorials that help you ... Meet the Console Tab of Web Development Tools – provide you with a basic ..."
   },
   {
     "id": "019",
     "category": "04",
     "name": "Intermediate Javascript",
-    "photo": "https://i.ytimg.com/vi/9PyFD-E2JRk/maxresdefault.jpg"
+    "photo": "https://i.ytimg.com/vi/9PyFD-E2JRk/maxresdefault.jpg",
+    "details": "You’ve learned the programming fundamentals using the latest JavaScript syntax to create dynamic web apps, but you want to do more! With Intermediate JavaScript, you’ll understand how to incorporate JavaScript in bigger and more complex web apps using concepts such as classes, promises, async/await, and requests."
   },
   {
     "id": "020",
     "category": "04",
     "name": "Advanced level Javascript",
-    "photo": "https://miro.medium.com/max/1400/1*wYaNErEx9A6mK39MU4gm0g.png"
+    "photo": "https://miro.medium.com/max/1400/1*wYaNErEx9A6mK39MU4gm0g.png",
+    "details": "Pass technical interviews with ease by mastering the built-in functionality of JavaScript. Code Cards practice tool, pass technical interviews and deeply understand JavaScript."
   },
 
   {
     "id": "021",
     "category": "03",
     "name": "Basic React",
-    "photo": "https://www.freecodecamp.org/news/content/images/2020/03/React-components.png"
+    "photo": "https://www.freecodecamp.org/news/content/images/2020/03/React-components.png",
+    "details": "The techniques you'll learn in the tutorial are fundamental to building any React app, and mastering it will give you a deep understanding of React.React is a JavaScript library, and so we'll assume you have a basic understanding of the JavaScript language."
   },
   {
     "id": "022",
     "category": "03",
     "name": "Intermediate React",
-    "photo": "https://static.skillshare.com/uploads/video/thumbnails/ed3ec387c4a362b946362cd0e9acff19/original"
+    "photo": "https://static.skillshare.com/uploads/video/thumbnails/ed3ec387c4a362b946362cd0e9acff19/original",
+    "details": "The Intermediate React course requires a strong understanding of topics from previous courses including React Fundamentals, Intermediate JavaScript II , Advanced JavaScript I, and Advanced JavaScript II courses. ES2015 syntax is used frequently in this course, so pay special attention to the ES2015 chapter of the Advanced JavaScript Part II course."
   },
   {
     "id": "023",
     "category": "03",
     "name": "Advanced level React",
-    "photo": "https://i.ytimg.com/vi/MfIoAG3e7p4/maxresdefault.jpg"
+    "photo": "https://i.ytimg.com/vi/MfIoAG3e7p4/maxresdefault.jpg",
+    "details": "We all love ReactJS. It is one of the best and popular way to create SPA(Single Page Application). It offers flexibility and facility. It has great feature to use it to create a single component in the existing website or use it to create the whole website from scratch."
   },
   {
     "id": "027",
     "category": "06",
     "name": "Basic Node Js",
-    "photo": "https://bs-uploads.toptal.io/blackfish-uploads/public-files/why-use-nodejs-e0bb1f43465b6646a91c347c793629e2.png"
+    "photo": "https://bs-uploads.toptal.io/blackfish-uploads/public-files/why-use-nodejs-e0bb1f43465b6646a91c347c793629e2.png",
+    "details": "Become a Web Development Pro with these valuable skills. Find the right instructor for you. Choose from many topics, skill levels, and languages. Expert Instructors. 30-Day Money Guarantee. Over 204,000 Courses. Lifetime Access. Courses in 60+ Languages"
   },
   {
     "id": "028",
     "category": "06",
     "name": "Intermediate Node Js",
-    "photo": "https://stackify.com/wp-content/uploads/2018/09/Learn-Node-881x441.jpg"
+    "photo": "https://stackify.com/wp-content/uploads/2018/09/Learn-Node-881x441.jpg",
+    "details": "In order to be successful in this course, you will need to have prior experience building Node and Express applications. If you want to learn Node and Express Fundamentals, head over to our Node and Express.js Fundamentals Course"
   },
   {
     "id": "029",
     "category": "06",
     "name": "Advanced level Node Js",
-    "photo": "https://cdn.lynda.com/course/661808/661808-1619131625583-16x9.jpg"
+    "photo": "https://cdn.lynda.com/course/661808/661808-1619131625583-16x9.jpg",
+    "details": "Get advanced with Node.Js! Learn caching with Redis, speed up through clustering, and add image upload with S3 and Node"
   },
   {
     "id": "033",
     "category": "08",
     "name": "Basic Django",
-    "photo": "https://miro.medium.com/max/365/1*7Y-o8gTDAczXDGu8NMAtyg.png"
+    "photo": "https://miro.medium.com/max/365/1*7Y-o8gTDAczXDGu8NMAtyg.png",
+    "details": "Django is a Python-based web framework which allows you to quickly create web application without all of the installation or dependency problems that you normally will find with other frameworks."
   },
   {
     "id": "034",
     "category": "08",
     "name": "Intermediate Django",
-    "photo": "https://www.educative.io/v2api/editorpage/4851104629129216/image/5817722754564096"
+    "photo": "https://www.educative.io/v2api/editorpage/4851104629129216/image/5817722754564096",
+    "details": "Once you have completed this computer based training course, you will have learned how to build modern, scalable, and maintainable web applications with Django. Working files are included, allowing you to follow along with the author throughout the lessons"
   },
   {
     "id": "035",
     "category": "08",
     "name": "Advanced level Django",
-    "photo": "https://learn.justdjango.com/static/media/advanced-django-roadmap.59c3c6ff.png"
+    "photo": "https://learn.justdjango.com/static/media/advanced-django-roadmap.59c3c6ff.png",
+    "details": "This training is intended to help Django developers learn a little more deeply about some of the features Django has to offer. The format should allow you to get the information you are wanting to learn about quickly. There is also a basic Django project that you can clone and get setup to have a place to play around with the concepts and ideas that are taught here."
   }
 ]

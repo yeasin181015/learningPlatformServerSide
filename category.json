@@ -15,24 +15,14 @@
     "id": "04",
     "name": "Javascript"
   },
-  {
-    "id": "05",
-    "name": "Redux"
-  },
+
   {
     "id": "06",
     "name": "Node Js"
   },
-  {
-    "id": "07",
-    "name": "React Native"
-  },
+
   {
     "id": "08",
     "name": "Django"
-  },
-  {
-    "id": "09",
-    "name": "AWS"
   }
 ]

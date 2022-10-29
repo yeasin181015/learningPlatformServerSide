@@ -20,6 +20,13 @@ app.get("/courses/info/:id", (req, res) => {
   const selectedCourses = courses.filter((course) => course.category == id);
   res.send(selectedCourses);
 });
+
+app.get("/courses/specific/:id", (req, res) => {
+  const { id } = req.params;
+  const specificCourse = courses.find((course) => course.id == id);
+  res.send(specificCourse);
+});
+
 app.listen(port, () => {
   console.log(`Running on ${port}`);
 });
