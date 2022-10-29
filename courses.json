@@ -15,157 +15,99 @@
     "id": "014",
     "category": "01",
     "name": "Advanced level HTML",
-    "photo": ""
+    "photo": "https://i.ytimg.com/vi/GE2qnXC8UMg/maxresdefault.jpg"
   },
 
   {
     "id": "015",
     "category": "02",
     "name": "Basic CSS",
-    "photo": ""
+    "photo": "https://miro.medium.com/max/880/1*QNMzhjFSt-EdNabbVe7qEg.png"
   },
   {
     "id": "016",
     "category": "02",
     "name": "Intermediate CSS",
-    "photo": ""
+    "photo": "https://server2client.com/images/cssintermediatesummary.webp"
   },
   {
     "id": "017",
     "category": "02",
     "name": "Advanced level CSS",
-    "photo": ""
+    "photo": "https://pagely.com/wp-content/uploads/2017/07/hero-css.png"
   },
 
   {
     "id": "018",
     "category": "04",
     "name": "Basic Javascript",
-    "photo": ""
+    "photo": "https://i.ytimg.com/vi/xwKbtUP87Dk/maxresdefault.jpg"
   },
   {
     "id": "019",
     "category": "04",
     "name": "Intermediate Javascript",
-    "photo": ""
+    "photo": "https://i.ytimg.com/vi/9PyFD-E2JRk/maxresdefault.jpg"
   },
   {
     "id": "020",
     "category": "04",
     "name": "Advanced level Javascript",
-    "photo": ""
+    "photo": "https://miro.medium.com/max/1400/1*wYaNErEx9A6mK39MU4gm0g.png"
   },
 
   {
     "id": "021",
     "category": "03",
     "name": "Basic React",
-    "photo": ""
+    "photo": "https://www.freecodecamp.org/news/content/images/2020/03/React-components.png"
   },
   {
     "id": "022",
     "category": "03",
     "name": "Intermediate React",
-    "photo": ""
+    "photo": "https://static.skillshare.com/uploads/video/thumbnails/ed3ec387c4a362b946362cd0e9acff19/original"
   },
   {
     "id": "023",
     "category": "03",
     "name": "Advanced level React",
-    "photo": ""
+    "photo": "https://i.ytimg.com/vi/MfIoAG3e7p4/maxresdefault.jpg"
   },
-
-  {
-    "id": "024",
-    "category": "05",
-    "name": "Basic Redux",
-    "photo": ""
-  },
-  {
-    "id": "025",
-    "category": "05",
-    "name": "Intermediate Redux"
-  },
-  {
-    "id": "026",
-    "category": "05",
-    "name": "Advanced level Redux",
-    "photo": ""
-  },
-
   {
     "id": "027",
     "category": "06",
     "name": "Basic Node Js",
-    "photo": ""
+    "photo": "https://bs-uploads.toptal.io/blackfish-uploads/public-files/why-use-nodejs-e0bb1f43465b6646a91c347c793629e2.png"
   },
   {
     "id": "028",
     "category": "06",
     "name": "Intermediate Node Js",
-    "photo": ""
+    "photo": "https://stackify.com/wp-content/uploads/2018/09/Learn-Node-881x441.jpg"
   },
   {
     "id": "029",
     "category": "06",
     "name": "Advanced level Node Js",
-    "photo": ""
+    "photo": "https://cdn.lynda.com/course/661808/661808-1619131625583-16x9.jpg"
   },
-
-  {
-    "id": "030",
-    "category": "07",
-    "name": "Basic React Native",
-    "photo": ""
-  },
-  {
-    "id": "031",
-    "category": "07",
-    "name": "Intermediate React Native",
-    "photo": ""
-  },
-  {
-    "id": "032",
-    "category": "07",
-    "name": "Advanced level React Native",
-    "photo": ""
-  },
-
   {
     "id": "033",
     "category": "08",
     "name": "Basic Django",
-    "photo": ""
+    "photo": "https://miro.medium.com/max/365/1*7Y-o8gTDAczXDGu8NMAtyg.png"
   },
   {
     "id": "034",
     "category": "08",
     "name": "Intermediate Django",
-    "photo": ""
+    "photo": "https://www.educative.io/v2api/editorpage/4851104629129216/image/5817722754564096"
   },
   {
     "id": "035",
     "category": "08",
     "name": "Advanced level Django",
-    "photo": ""
-  },
-
-  {
-    "id": "036",
-    "category": "09",
-    "name": "Basic AWS",
-    "photo": ""
-  },
-  {
-    "id": "037",
-    "category": "09",
-    "name": "Intermediate AWS",
-    "photo": ""
-  },
-  {
-    "id": "038",
-    "category": "09",
-    "name": "Advanced level AWS",
-    "photo": ""
+    "photo": "https://learn.justdjango.com/static/media/advanced-django-roadmap.59c3c6ff.png"
   }
 ]
